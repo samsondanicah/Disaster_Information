@@ -15,6 +15,8 @@ gem 'faker'
 
 gem 'kaminari'
 
+gem 'carrierwave'
+
 # Use mysql as the database for Active Record
 gem "mysql2", "~> 0.5"
 
