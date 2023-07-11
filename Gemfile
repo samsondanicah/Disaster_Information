@@ -11,6 +11,10 @@ gem "sprockets-rails"
 
 gem 'devise'
 
+gem 'faker'
+
+gem 'kaminari'
+
 # Use mysql as the database for Active Record
 gem "mysql2", "~> 0.5"
 
